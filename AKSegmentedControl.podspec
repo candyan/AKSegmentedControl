@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name     = 'AKSegmentedControl'
-  s.version  = '1.0.4'
+  s.version  = '1.0.4.1'
   s.author   = { 'Ali Karagoz' => 'mail@alikaragoz.net' }
   s.homepage = 'https://github.com/alikaragoz/AKSegmentedControl'
   s.summary  = 'AKSegmentedControl is a fully customizable Segmented Control for iOS.'
